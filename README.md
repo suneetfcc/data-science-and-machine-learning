@@ -1,4 +1,4 @@
-### data-science-and-machine-learning
+### data-science-and-machine-learning-with-python
 
 Learning Path (Tentative)
 Timeline (15 July - 15 dec, ~ 5 months)
