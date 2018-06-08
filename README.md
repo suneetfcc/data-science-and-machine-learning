@@ -11,3 +11,14 @@ Timeline (15 July - 15 dec, ~ 5 months)
 6. Machine Learning (Coursera)
 7. Apache Spark (??)
 7. MachineLearning at scale (??)
+
+
+Deep Learning in JS - Ashi Krishnan - JSConf EU 2018
+https://www.youtube.com/watch?v=SV-cgdobtTA
+
+
+Time Series Analysis In Python
+https://www.youtube.com/watch?v=0NkKq7AGYaQ
+
+Siraj Raval Channel
+https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
