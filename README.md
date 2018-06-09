@@ -22,3 +22,7 @@ https://www.youtube.com/watch?v=0NkKq7AGYaQ
 
 Siraj Raval Channel
 https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
+
+
+Applied Machine Learning in Python (After theoretical study must do course)
+https://www.coursera.org/learn/python-machine-learning?utm_medium=email&utm_source=marketing&utm_campaign=XNV0AFoBEeiWLetO06Kdhw
