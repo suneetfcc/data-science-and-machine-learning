@@ -26,3 +26,6 @@ https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
 
 Applied Machine Learning in Python (After theoretical study must do course)
 https://www.coursera.org/learn/python-machine-learning?utm_medium=email&utm_source=marketing&utm_campaign=XNV0AFoBEeiWLetO06Kdhw
+
+Python Tutorials
+https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q
