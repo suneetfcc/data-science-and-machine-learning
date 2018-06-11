@@ -29,3 +29,6 @@ https://www.coursera.org/learn/python-machine-learning?utm_medium=email&utm_sour
 
 Python Tutorials
 https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q
+
+DataScience @scale
+https://www.coursera.org/specializations/data-science?action=enroll (18 JUN)
